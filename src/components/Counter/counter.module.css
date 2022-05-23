@@ -1,3 +1,5 @@
 .counter {
   /* TODO */
+  display: flex;
+  align-items: center;
 }

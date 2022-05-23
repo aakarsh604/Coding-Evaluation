@@ -1,3 +1,27 @@
 .task {
   /* Sample  */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.div1 {
+  width: 30%;
+  height: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.div2 {
+  width: 50%;
+  height: 40px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 5px;
+  align-items: center;
+}
+
+.strike {
+  text-decoration: line-through;
+  opacity: 0.5;
 }

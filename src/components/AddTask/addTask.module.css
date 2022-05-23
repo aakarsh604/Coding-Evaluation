@@ -1,3 +1,21 @@
-.addTask {
-  /* Sample */
+.todoForm {
+/* border: 1px solid red; */
+text-align: center;
+display: flex;
+align-items: center;
+}
+
+.inputbox {
+  width: 342px;
+  height: 40px;
+  padding: 0px 20px;
+  font-size: 18px;
+  outline: none;
+}
+
+.inputbtn {
+  height: 40px;
+  width: 40px;
+  font-size: 30px;
+  cursor: pointer;
 }
